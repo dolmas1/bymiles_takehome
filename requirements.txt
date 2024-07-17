@@ -160,6 +160,7 @@ rfc3339-validator=0.1.4=py312h06a4308_0
 rfc3986-validator=0.1.1=py312h06a4308_0
 rpds-py=0.10.6=py312hb02cf49_0
 scipy=1.13.1=py312hc5e2394_0
+seaborn=0.13.2=py312h06a4308_0
 send2trash=1.8.2=py312h06a4308_0
 setuptools=69.5.1=py312h06a4308_0
 sip=6.7.12=py312h6a678d5_0
